@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/redux-todo/public/index.html/static/css/main.f855e6bc.css",
-    "main.js": "/redux-todo/public/index.html/static/js/main.8be12b99.js",
-    "static/js/453.be3380b9.chunk.js": "/redux-todo/public/index.html/static/js/453.be3380b9.chunk.js",
-    "static/media/logo.svg": "/redux-todo/public/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/redux-todo/public/index.html/index.html",
-    "main.f855e6bc.css.map": "/redux-todo/public/index.html/static/css/main.f855e6bc.css.map",
-    "main.8be12b99.js.map": "/redux-todo/public/index.html/static/js/main.8be12b99.js.map",
-    "453.be3380b9.chunk.js.map": "/redux-todo/public/index.html/static/js/453.be3380b9.chunk.js.map"
+    "main.css": "/redux-todo/static/css/main.f855e6bc.css",
+    "main.js": "/redux-todo/static/js/main.3ebad9cf.js",
+    "static/js/453.be3380b9.chunk.js": "/redux-todo/static/js/453.be3380b9.chunk.js",
+    "static/media/logo.svg": "/redux-todo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/redux-todo/index.html",
+    "main.f855e6bc.css.map": "/redux-todo/static/css/main.f855e6bc.css.map",
+    "main.3ebad9cf.js.map": "/redux-todo/static/js/main.3ebad9cf.js.map",
+    "453.be3380b9.chunk.js.map": "/redux-todo/static/js/453.be3380b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8be12b99.js"
+    "static/js/main.3ebad9cf.js"
   ]
 }
